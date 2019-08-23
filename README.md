@@ -6,11 +6,11 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/PEN%20X%20PEN%20Addons%2020190827%CE%B13.png" width="48.87%">
 
 ## 安装 Installation
-1、下载 **[最终版本](https://gitlab.com/shagu/pfUI/-/archive/master/pfUI-master.zip1)**
+1. 下载 **[最终版本](https://gitlab.com/shagu/pfUI/-/archive/master/pfUI-master.zip1)**
 1. Download **[Latest Version](https://gitlab.com/shagu/pfUI/-/archive/master/pfUI-master.zip1)**
-2、解压缩文件
+2. 解压缩文件
 2. Unpack the Zip file
-3、拷贝所有的文件至魔兽世界根目录下_classic_文件夹
+3. 拷贝所有的文件至魔兽世界根目录下_classic_文件夹
 3. Copy all file into Wow-Directory\_classic_
-4、重启魔兽世界
+4. 重启魔兽世界
 4. Restart Wow
