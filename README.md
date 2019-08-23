@@ -12,16 +12,16 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 4. 重启魔兽世界
 
 ## 命令集 Commands
-*none
+* none
 
 ## 语言 Languages
 * Chinese (zhCN) only
 
 ## 推荐插件 Recommended Addons
-*none
+* none
 
 ## 插件 Plugins
-*none
+* none
 
 ## 问与答 FAQ
-*none
+* none
