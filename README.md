@@ -10,3 +10,18 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 2. 解压缩文件
 3. 拷贝所有的文件至魔兽世界根目录下_classic_文件夹
 4. 重启魔兽世界
+
+## 命令集 Commands
+*none
+
+## 语言 Languages
+* Chinese (zhCN) only
+
+## 推荐插件 Recommended Addons
+*none
+
+## 插件 Plugins
+*none
+
+## 问与答 FAQ
+*none
