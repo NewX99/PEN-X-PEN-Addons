@@ -21,8 +21,9 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 ## 推荐插件 Recommended Addons
 * none
 
-## 插件 Plugins
-* none
+## 辅助文件 secondary file
+* 插件版本修改软件 **[[WOWtoc]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/WoWToc.exe)**
+* 插件设置转移软件 **[[WOWwfs]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/WOW%E9%85%8D%E7%BD%AE%E5%A4%8D%E5%88%B6-WFS4.9(32).exe)**
 
 ## 问与答 FAQ
 * none
