@@ -7,7 +7,7 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Addons%20list%20.jpg">
 
 ## 安装 Installation
-1. 下载 **[[最终版本]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PXPmaster.7z)**
+1. 下载 **[[最终版本卷一]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PEN%20X%20PEN%20classic%20test%20190829%CE%B2-1.part1.rar)** **[[最终版本卷二]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PEN%20X%20PEN%20classic%20test%20190829%CE%B2-1.part2.rar)** **[[最终版本卷三]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PEN%20X%20PEN%20classic%20test%20190829%CE%B2-1.part3.rar)**
 2. 解压缩文件
 3. 拷贝所有的文件至魔兽世界根目录下_classic_文件夹
 4. 重启魔兽世界
