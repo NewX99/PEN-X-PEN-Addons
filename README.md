@@ -37,7 +37,7 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 * 初始版本
 
 ## 声明 state
-所有插件均未搬运整合，在此感谢原作者及中文修改人。
+所有插件均为搬运整合，在此感谢原作者及中文修改人。
 
 插件来源 **[[魔兽猫 http://classic.wowcat.net]](http://classic.wowcat.net)**
 
