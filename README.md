@@ -13,13 +13,18 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 4. 重启魔兽世界
 
 ## 命令集 Commands
-* none
+* 参见截图列表
 
 ## 语言 Languages
 * 目前只支持简体中文
 
 ## 推荐插件 Recommended Addons
-* none
+* Guidelime 【新手福音】保姆式高定制任务升级导航插件
+* AtlasLootClassic 副本掉落物品查询 v1.1.7
+* ClassicCodex [原pfQuest]强大的全能型任务数据库 - Fan移植 v1.2
+* Details <官方怀旧服专用> 老牌轻量级数据统计插件 v1.13.2.717
+* MonkeyQuest 猴子任务监视助手 v2.9.39
+* WeakAuras2 <官方怀旧专用>神级法术提醒和计时插件 v2.14.5-classic
 
 ## 辅助文件 secondary file
 * 插件版本修改软件 **[[WOWtoc]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/WoWToc.exe)**
