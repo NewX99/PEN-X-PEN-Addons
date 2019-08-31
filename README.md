@@ -37,11 +37,11 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 
 ## 版本更新 Version update
 * **PEN X PEN Addons 20190831β-1**
-* **更换了 原有的拍卖行插件 Auctionator Classic,变为更加智能的 AUX**
-* **添加了 ChatBar 聊天频道按钮切换**
-* **添加了 InFlight 飞行时间状态计时器**
-* **遗留了 OmniCC 技能冷却计时闪光与ElvUI冲突的问题**
-* **遗留了 RealMobHealth 真实怪物血量数值与ElvUI冲突的问题**
+* **更换了** 原有的拍卖行插件 Auctionator Classic,变为更加智能的 AUX
+* **添加了** ChatBar 聊天频道按钮切换
+* **添加了** InFlight 飞行时间状态计时器**
+* **遗留了** OmniCC 技能冷却计时闪光与ElvUI冲突的问题
+* **遗留了** RealMobHealth 真实怪物血量数值与ElvUI冲突的问题
 * ————————————————————————————————————————————————————
 * PEN X PEN Addons 20190829β-1
 * 初始版本
