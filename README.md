@@ -15,7 +15,7 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 4. 拷贝PEN X PEN classic Master下所有的文件至魔兽世界根目录下_classic_文件夹
 5. 修改WTF目录下Account下多层文件名称为你的账号信息,可参考你备份出去的源文件
 6. 启动魔兽世界
-7. **按照ElvUI的提示进行流程设置，插件自动重启，按ESC进入游戏主菜单，选择ElvUI进入设置，选择配置标签，选择复制配置文件自灰烬使者-张秀琴**
+7. **按照ElvUI的提示进行流程设置，插件自动重启，按ESC进入游戏主菜单，选择ElvUI进入设置，选择配置标签，选择复制配置文件自辛洛斯-UI**
 
 ## 命令集 Commands
 * 参见截图列表
@@ -37,12 +37,18 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 * 美化字体数字整合 **[[Fonts]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/Fonts.7z)**
 
 ## 版本更新 Version update
-* **PEN X PEN Addons 20190831β-1**
-* **更换了** 原有的拍卖行插件 Auctionator Classic,变为更加智能的 AUX
-* **添加了** ChatBar 聊天频道按钮切换
-* **添加了** InFlight 飞行时间状态计时器**
-* **遗留了** OmniCC 技能冷却计时闪光与ElvUI冲突的问题
-* **遗留了** RealMobHealth 真实怪物血量数值与ElvUI冲突的问题
+**PEN X PEN Addons 20190901β-1**
+**添加了** GatherMate2 老牌采集助手 v1.45
+**添加了** TrinketMenu 饰品管理助手 v7.3.2 fan改
+**遗留了** RealMobHealth 真实怪物血量数值与ElvUI冲突的问题
+**改进了** 各个UI界面文字大小的问题
+* ————————————————————————————————————————————————————
+* PEN X PEN Addons 20190831β-1
+* 更换了 原有的拍卖行插件 Auctionator Classic,变为更加智能的 AUX
+* 添加了 ChatBar 聊天频道按钮切换
+* 添加了 InFlight 飞行时间状态计时器
+* 遗留了 OmniCC 技能冷却计时闪光与ElvUI冲突的问题
+* 遗留了 RealMobHealth 真实怪物血量数值与ElvUI冲突的问题
 * ————————————————————————————————————————————————————
 * PEN X PEN Addons 20190829β-1
 * 初始版本 
