@@ -8,7 +8,7 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Addons00%20list%20.jpg">
 
 ## 安装 Installation
-1. 下载全部分卷 **[[最终版本卷一]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PEN%20X%20PEN%20classic%20Master.part1.rar)** **[[最终版本卷二]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PEN%20X%20PEN%20classic%20Master.part2.rar)** **[[最终版本卷三]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PEN%20X%20PEN%20classic%20Master.part3.rar)**
+1. 下载全部分卷 **[[最终版本卷一]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PEN%20X%20PEN%20classic%20Master.part01.rar)** **[[最终版本卷二]]https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PEN%20X%20PEN%20classic%20Master.part02.rar)** **[[最终版本卷三]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PEN%20X%20PEN%20classic%20Master.part03.rar)**
 或者使用 **[[百度网盘]](https://pan.baidu.com/s/1aQd5IuV9aUkSZYVBSYvPDQ)** 提取码: **myfv**
 2. 解压缩获得PEN X PEN classic Master，其中包含Interface,WTF,Fonts三个文件夹
 3. 备份你魔兽世界根目录下_classic_目录下的Interface,WTF,Fonts三个文件夹，然后删除它们
