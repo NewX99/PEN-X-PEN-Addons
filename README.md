@@ -38,10 +38,10 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 
 ## 版本更新 Version update
 * **PEN X PEN Addons 20190901β-1**
-* **添加了** GatherMate2 老牌采集助手 v1.45
-* **添加了** TrinketMenu 饰品管理助手 v7.3.2 fan改
-* **遗留了** RealMobHealth 真实怪物血量数值与ElvUI冲突的问题
-* **改进了** 各个UI界面文字大小的问题
+* **添加了** *GatherMate2 老牌采集助手 v1.45
+* **添加了** *TrinketMenu 饰品管理助手 v7.3.2 fan改
+* **遗留了** *RealMobHealth 真实怪物血量数值与ElvUI冲突的问题
+* **改进了** *各个UI界面文字大小的问题
 * ————————————————————————————————————————————————————
 * PEN X PEN Addons 20190831β-1
 * 更换了 原有的拍卖行插件 Auctionator Classic,变为更加智能的 AUX
