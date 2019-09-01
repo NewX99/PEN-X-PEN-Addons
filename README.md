@@ -13,7 +13,7 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 2. 解压缩获得PEN X PEN classic Master，其中包含Interface,WTF,Fonts三个文件夹
 3. 备份你魔兽世界根目录下_classic_目录下的Interface,WTF,Fonts三个文件夹，然后删除它们
 4. 拷贝PEN X PEN classic Master下所有的文件至魔兽世界根目录下_classic_文件夹
-5. 修改WTF目录下Account下多层文件名称为你的账号信息,可参考你备份出去的源文件
+5. 修改WTF目录下Account下多层文件名称为你的账号信息,可参考你备份出去的原文件
 6. 启动魔兽世界
 7. **按照ElvUI的提示进行流程设置，插件自动重启，按ESC进入游戏主菜单，选择ElvUI进入设置，选择配置标签，选择复制配置文件自辛洛斯-UI**
 
