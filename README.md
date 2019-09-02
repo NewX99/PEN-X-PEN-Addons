@@ -1,4 +1,4 @@
-# PEN-X-PEN-Addons 20190901β-1
+# PEN-X-PEN-Addons 20190902β-1
 PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简体插件整合而来。魔兽世界怀旧服，主指为中国地区由网易代理的魔兽世界怀旧服，该插件旨在增强游戏内容。希望用户能够从一开始就易于使用。它主要由NewX99自行汇编。
 
 **请不要重新上传或分发此项目的过期版本。但是，非常欢迎您分享或链接到官方github页面。**
@@ -37,11 +37,17 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 * 美化字体数字整合 **[[Fonts]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/Fonts.7z)**
 
 ## 版本更新 Version update
-* **PEN X PEN Addons 20190901β-1**
-* **添加了** GatherMate2 老牌采集助手 v1.45
-* **添加了** TrinketMenu 饰品管理助手 v7.3.2 fan改
+* **PEN X PEN Addons 20190902β-1**
+* **添加了** Decursive 经典老牌的＂一键驱散＂
 * **遗留了** RealMobHealth 真实怪物血量数值与ElvUI冲突的问题
-* **改进了** 各个UI界面文字大小的问题
+* **更新了** Elvui主框架版本，修复了NPC对话框排版的错误
+* **更新了** Details  老牌轻量级数据统计插件
+* ————————————————————————————————————————————————————
+* PEN X PEN Addons 20190901β-1
+* 添加了 GatherMate2 老牌采集助手 v1.45
+* 添加了 TrinketMenu 饰品管理助手 v7.3.2 fan改
+* 遗留了 RealMobHealth 真实怪物血量数值与ElvUI冲突的问题
+* 改进了 各个UI界面文字大小的问题
 * ————————————————————————————————————————————————————
 * PEN X PEN Addons 20190831β-1
 * 更换了 原有的拍卖行插件 Auctionator Classic,变为更加智能的 AUX
