@@ -40,14 +40,14 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 * **PEN X PEN Addons 20190903β-2**
 * **删除了** TradeSkillMaster 地精商业助手 v4.8.5 classic
 * ————————————————————————————————————————————————————
-* **PEN X PEN Addons 20190903β-1**
-* **添加了** Atlas & AtlasQuest 副本地图/副本任务查看 1.13.0,掉落查询未实装
-* **添加了** ClassicMenus 框架鼠标右键弹出菜单增强 v1.0
-* **添加了** Leatrix_Maps 大地图显示未探测区域&副本位置图标 v1.13.27
-* **添加了** Fizzle 装备品质着色，角色栏装备颜色 v80200-1
-* **添加了** TradeSkillMaster 地精商业助手 v4.8.5 classic
-* **修复了** RealMobHealth 真实怪物血量数值与ElvUI冲突的问题
-* **遗留了** 整体插件包过于臃肿的问题 
+* PEN X PEN Addons 20190903β-1
+* 添加了 Atlas & AtlasQuest 副本地图/副本任务查看 1.13.0,掉落查询未实装
+* 添加了 ClassicMenus 框架鼠标右键弹出菜单增强 v1.0
+* 添加了 Leatrix_Maps 大地图显示未探测区域&副本位置图标 v1.13.27
+* 添加了 Fizzle 装备品质着色，角色栏装备颜色 v80200-1
+* 添加了 TradeSkillMaster 地精商业助手 v4.8.5 classic
+* 修复了 RealMobHealth 真实怪物血量数值与ElvUI冲突的问题
+* 遗留了 整体插件包过于臃肿的问题 
 * ————————————————————————————————————————————————————
 * PEN X PEN Addons 20190902β-1
 * 添加了 Decursive 经典老牌的＂一键驱散＂
