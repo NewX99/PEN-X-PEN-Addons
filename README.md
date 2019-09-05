@@ -10,7 +10,7 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 
 ## 安装 Installation
 1. 下载全部分卷 **[[最终版本卷一]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PEN%20X%20PEN%20classic%20Master.part01.rar)** **[[最终版本卷二]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PEN%20X%20PEN%20classic%20Master.part02.rar)** **[[最终版本卷三]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PEN%20X%20PEN%20classic%20Master.part03.rar)** **[[最终版本卷四]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PEN%20X%20PEN%20classic%20Master.part04.rar)**
-或者使用 **[[百度网盘]](https://pan.baidu.com/s/1gPWa7WZy12kLaXzyCA14xA)** 提取码: **4rwh**
+或者使用 **[[百度网盘]](https://pan.baidu.com/s/1MYsUBUCyysY9UDGh4B1VMg)** 提取码: **89i2**
 2. 解压缩获得PEN X PEN classic Master，其中包含Interface,WTF,Fonts三个文件夹
 3. **备份你魔兽世界根目录下_classic_目录下的Cache,Interface,WTF,Fonts三个文件夹，然后删除它们**
 4. 拷贝PEN X PEN classic Master下所有的文件至魔兽世界根目录下_classic_文件夹
@@ -38,8 +38,12 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 * 美化字体数字整合 **[[Fonts]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/Fonts.7z)**
 
 ## 版本更新 Version update
-* **PEN X PEN Addons 20190903β-2**
-* **删除了** TradeSkillMaster 地精商业助手 v4.8.5 classic
+* **PEN X PEN Addons 20190905β-1**
+* **添加了** ClassicThreatMeter 团队仇恨监视 v1.06
+* **添加了** EavesDrop 战斗图形事件框 v1.0.0 classic
+* ————————————————————————————————————————————————————
+* PEN X PEN Addons 20190903β-2
+* 删除了 TradeSkillMaster 地精商业助手 v4.8.5 classic
 * ————————————————————————————————————————————————————
 * PEN X PEN Addons 20190903β-1
 * 添加了 Atlas & AtlasQuest 副本地图/副本任务查看 1.13.0,掉落查询未实装
