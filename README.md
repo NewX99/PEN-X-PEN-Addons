@@ -6,7 +6,9 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 ## 截图 Screenshots
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Screenshots00.jpg">
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Screenshots01.jpg">
+<img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Addonslist%02.jpg">
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Addonslist%20.jpg">
+
 
 ## 安装 Installation
 1. 下载全部分卷 **[[最终版本卷一]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PEN%20X%20PEN%20classic%20Master.part01.rar)** **[[最终版本卷二]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PEN%20X%20PEN%20classic%20Master.part02.rar)** **[[最终版本卷三]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PEN%20X%20PEN%20classic%20Master.part03.rar)** **[[最终版本卷四]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PEN%20X%20PEN%20classic%20Master.part04.rar)**
@@ -87,4 +89,4 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 
 插件来源 **[[178魔兽插件站 http://wowui.178.com/]](http://wowui.178.com/)**
 
-插件来源 **[[桃乐豆 http://www.taoledou.com/)**
+插件来源 **[[桃乐豆 http://www.taoledou.com/]](http://www.taoledou.com/)**
