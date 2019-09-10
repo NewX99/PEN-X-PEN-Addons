@@ -12,16 +12,17 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 
 ## 安装 Installation
 1. 下载插件
-* 本地下载 **[[最终版本卷一]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PEN%20X%20PEN%20classic%20Master.part01.rar)** **[[最终版本卷二]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PEN%20X%20PEN%20classic%20Master.part02.rar)** **[[最终版本卷三]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PEN%20X%20PEN%20classic%20Master.part03.rar)** **[[最终版本卷四]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PEN%20X%20PEN%20classic%20Master.part04.rar)**
+* 更新工具**[[桃乐豆]](http://www.taoledou.com/)** **[桃乐豆分享码]**：**eb0e71682ec14ce1ba9e7795438ca748** **（推荐使用）**  
 * 网盘下载 **[[百度网盘]](https://pan.baidu.com/s/1NrnxhbzJ3vRPFj1WH39Hmg)** 提取码: **2bd6** 
-* 更新工具 **[桃乐豆分享码]**：**86d8177434a04072a6ba4220c8dba13e**
-
+----------------------------------------桃乐豆安装教程----------------------------------------
+2.请按照更新器指示自动删除原有插件、设置文件、字体及反河蟹文件，安装已知、未知插件、设置文件、字体及反河蟹文件。**特别注意请勿使用桃乐豆更新插件，本插件包多数来自于WOWCAT的汉化修改版，更新后会出现乱码、英文界面等情况**
+----------------------------------------网盘版安装教程----------------------------------------
 2. 解压缩获得PEN X PEN classic Master，其中包含Interface,WTF,Fonts三个文件夹
 3. **备份你魔兽世界根目录下_classic_目录下的Cache,Interface,WTF,Fonts四个文件夹，然后删除它们**
 4. 拷贝PEN X PEN classic Master下所有的文件至魔兽世界根目录下_classic_文件夹
 5. 修改WTF目录下Account下多层文件名称为你的账号信息,可参考你备份出去的原文件
 6. 启动魔兽世界
-7. **跳过ElvUI的所有设置，插件自动重启，按ESC进入游戏主菜单，选择ElvUI进入设置，选择配置标签，选择复制配置文件自辛洛斯-UI**
+7. **跳过ElvUI的所有设置，插件自动重启，按ESC进入游戏主菜单，选择ElvUI进入设置，选择配置标签，选择复制配置文件自灰烬使者-UI**
 
 ## 命令集 Commands
 * 参见截图列表
@@ -38,10 +39,10 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 * WeakAuras2 神级法术提醒和计时插件 v2.14.5-classic
 
 ## 辅助文件 secondary file
+* 桃乐豆插件更新器 **[[TLD]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/taoledou-setup-latest.exe)**
 * 插件版本修改软件 **[[WOWtoc]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/WoWToc.exe)**
 * 插件设置转移软件 **[[WOWwfs]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/WOW%E9%85%8D%E7%BD%AE%E5%A4%8D%E5%88%B6-WFS4.9(32).exe)**
 * 美化字体数字整合 **[[Fonts]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/Fonts.7z)**
-* 桃乐豆插件更新器 **[[TLD]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/taoledou-setup-latest.exe)**
 ## 版本更新 Version update
 * **PEN X PEN Addons 20190908β-2**
 * **添加了** Leatrix_Maps 大地图显示未探测区域&副本位置图标 v1.13.28
