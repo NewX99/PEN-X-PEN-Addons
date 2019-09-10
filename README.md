@@ -7,17 +7,19 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Screenshots00.jpg">
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Screenshots01.jpg">
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Screenshots02.jpg">
+<img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Screenshots03.jpg">
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Addonslist%20.jpg">
 
 
 ## 安装 Installation
 1. 下载插件
-* 更新工具**[[桃乐豆]](http://www.taoledou.com/)** **[桃乐豆分享码]**：**eb0e71682ec14ce1ba9e7795438ca748** **（推荐使用）**  
-* 网盘下载 **[[百度网盘]](https://pan.baidu.com/s/1NrnxhbzJ3vRPFj1WH39Hmg)** 提取码: **2bd6** 
+* 更新工具**[[桃乐豆]](http://www.taoledou.com/)** **[桃乐豆分享码]**：**fe89b260c8594d25875f1ed3dcb31a8f** **（推荐使用）**  
+* 网盘下载 **[[百度网盘]](https://pan.baidu.com/s/1l0HyG0BAyH2mC8sP84vT-Q)** 提取码: **jafv**
 
 ------------------------------------------------------------桃乐豆安装教程------------------------------------------------------------
 
 2. 请按照更新器指示自动删除原有插件、设置文件、字体及反河蟹文件，安装已知、未知插件、设置文件、字体及反河蟹文件。**特别注意请勿使用桃乐豆更新插件，本插件包多数来自于WOWCAT的汉化修改版，更新后会出现乱码、英文界面等情况**
+3. 启动魔兽世界
 
 ------------------------------------------------------------网盘版安装教程------------------------------------------------------------
 
@@ -36,11 +38,11 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 
 ## 推荐插件 Recommended Addons
 * Guidelime 保姆式高定制任务升级导航插件
-* AtlasLootClassic 副本掉落物品查询 v1.1.7
-* ClassicCodex 强大的全能型任务数据库 - Fan移植 v1.2
-* Details  老牌轻量级数据统计插件 v1.13.2.717
-* MonkeyQuest 猴子任务监视助手 v2.9.39
-* WeakAuras2 神级法术提醒和计时插件 v2.14.5-classic
+* AtlasLootClassic 副本掉落物品查询
+* ClassicCodex 强大的全能型任务数据库 - Fan移植
+* Details  老牌轻量级数据统计插件
+* MonkeyQuest 猴子任务监视助手
+* WeakAuras2 神级法术提醒和计时插件
 
 ## 辅助文件 secondary file
 * 桃乐豆插件更新器 **[[TLD]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/taoledou-setup-latest.exe)**
@@ -48,9 +50,14 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 * 插件设置转移软件 **[[WOWwfs]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/WOW%E9%85%8D%E7%BD%AE%E5%A4%8D%E5%88%B6-WFS4.9(32).exe)**
 * 美化字体数字整合 **[[Fonts]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/Fonts.7z)**
 ## 版本更新 Version update
-* **PEN X PEN Addons 20190908β-2**
-* **添加了** Leatrix_Maps 大地图显示未探测区域&副本位置图标 v1.13.28
-* **添加了** NeatPlates 精致强大的姓名板 v1.13.2.13-Classic
+* **PEN X PEN Addons 20190910β-1**
+* **调整了** UI的整体布局，统一界面字号，布局更加紧凑合理
+* **更新了** ElvUI框架及各种主要插件至作者新版
+* **遗留了** 桃乐豆套用角色非常混乱的问题
+* ————————————————————————————————————————————————————
+* PEN X PEN Addons 20190908β-2
+* 添加了 Leatrix_Maps 大地图显示未探测区域&副本位置图标 v1.13.28
+* 添加了 NeatPlates 精致强大的姓名板 v1.13.2.13-Classic
 * ————————————————————————————————————————————————————
 * PEN X PEN Addons 20190905β-1
 * 添加了** ClassicThreatMeter 团队仇恨监视 v1.06
@@ -88,7 +95,7 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 * 遗留了 RealMobHealth 真实怪物血量数值与ElvUI冲突的问题
 * ————————————————————————————————————————————————————
 * PEN X PEN Addons 20190829β-1
-* 初始版本  
+* 初始版本 
 
 ## 声明 state
 所有插件均为搬运整合，在此感谢原作者及中文修改人。
