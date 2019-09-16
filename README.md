@@ -11,10 +11,12 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Screenshots03.jpg">
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Addonslist%20.jpg">
 
+## 最新版本 Lastvesion
+**PEN X PEN Addons 20190916β-1**
 
 ## 安装 Installation
 1. 下载插件
-* 更新工具 **[[桃乐豆]](http://www.taoledou.com/)** 桃乐豆分享码：**fe89b260c8594d25875f1ed3dcb31a8f** **（推荐使用）**  
+* 更新工具 **[[桃乐豆]](http://www.taoledou.com/)** 桃乐豆分享码：**471a4c23fd8e4e1e8bc49050dc9590f6** **（推荐使用）**  
 * 网盘下载 **[[百度网盘]](https://pan.baidu.com/s/1l0HyG0BAyH2mC8sP84vT-Q)** 提取码: **jafv**
 
 ------------------------------------------------------------桃乐豆安装教程------------------------------------------------------------
@@ -29,7 +31,7 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 4. 拷贝PEN X PEN classic Master下所有的文件至魔兽世界根目录下_classic_文件夹
 5. 修改WTF目录下Account下多层文件名称为你的账号信息,可参考你备份出去的原文件
 6. 启动魔兽世界
-7. **跳过ElvUI的所有设置，插件自动重启，按ESC进入游戏主菜单，选择ElvUI进入设置，选择配置标签，选择复制配置文件自灰烬使者-UI**
+7. **跳过ElvUI的所有设置，插件自动重启，按ESC进入游戏主菜单，选择ElvUI进入设置，选择配置标签，选择复制配置文件自灰烬使者-张秀琴**
 
 ## 命令集 Commands
 * 参见截图列表
