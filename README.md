@@ -11,13 +11,13 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Screenshots03.jpg">
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Addonslist%20.jpg">
 
-## 最新版本 Lastvesion
-**PEN X PEN Addons 20190916β-1**
+## 最新版本 Last vesion
+* **PEN X PEN Addons 20190916β-1**
 
 ## 安装 Installation
 1. 下载插件
-* 更新工具 **[[桃乐豆]](http://www.taoledou.com/)** 桃乐豆分享码：**471a4c23fd8e4e1e8bc49050dc9590f6** **（推荐使用）**  
-* 网盘下载 **[[百度网盘]](https://pan.baidu.com/s/1l0HyG0BAyH2mC8sP84vT-Q)** 提取码: **jafv**
+* 更新工具 **[[桃乐豆]](http://www.taoledou.com/)** 桃乐豆分享码：**edbebb35fc934fd8b19721abdd445478** **（推荐使用）**  
+* 网盘下载 **[[百度网盘]](https://pan.baidu.com/s/1OtLoLO40QRmFJEqUffBqQA** 提取码: **7b75**
 
 ------------------------------------------------------------桃乐豆安装教程------------------------------------------------------------
 
@@ -39,7 +39,7 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 ## 语言 Languages
 * 目前只支持简体中文
 
-## 推荐插件 Recommended Addons
+## 推荐插件 Recommended addons
 * Guidelime 保姆式高定制任务升级导航插件
 * AtlasLootClassic 副本掉落物品查询
 * ClassicCodex 强大的全能型任务数据库 - Fan移植
@@ -53,10 +53,15 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 * 插件设置转移软件 **[[WOWwfs]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/WOW%E9%85%8D%E7%BD%AE%E5%A4%8D%E5%88%B6-WFS4.9(32).exe)**
 * 美化字体数字整合 **[[Fonts]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/Fonts.7z)**
 ## 版本更新 Version update
-* **PEN X PEN Addons 20190910β-1**
-* **调整了** UI的整体布局，统一界面字号，布局更加紧凑合理
+* **PEN X PEN Addons 20190916β-1**
+* **添加了** Skillet 扩展商业技能面板增强
 * **更新了** ElvUI框架及各种主要插件至作者新版
-* **遗留了** 桃乐豆套用角色非常混乱的问题
+* **更新了** ClassicCodex现在它兼容QuestLogEx任务框架了，并且减少了报错
+* ————————————————————————————————————————————————————
+* PEN X PEN Addons 20190910β-1
+* 调整了 UI的整体布局，统一界面字号，布局更加紧凑合理
+* 更新了 ElvUI框架及各种主要插件至作者新版
+* 遗留了 桃乐豆套用角色非常混乱的问题
 * ————————————————————————————————————————————————————
 * PEN X PEN Addons 20190908β-2
 * 添加了 Leatrix_Maps 大地图显示未探测区域&副本位置图标 v1.13.28
