@@ -12,12 +12,12 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Addonslist%20.jpg">
 
 ## 最新版本 Last vesion
-* **PEN X PEN Addons 20190916β-1**
+* **PEN X PEN Addons 20190917β-1**
 
 ## 安装 Installation
 1. 下载插件
-* 更新工具 **[[桃乐豆]](http://www.taoledou.com/)** 桃乐豆分享码：**edbebb35fc934fd8b19721abdd445478** **（推荐使用）**  
-* 网盘下载 **[[百度网盘]](https://pan.baidu.com/s/1OtLoLO40QRmFJEqUffBqQA)** 提取码: **7b75**
+* 更新工具 **[[桃乐豆]](http://www.taoledou.com/)** 桃乐豆分享码：**b3132c2a55f24b6786cf2b13818ec072** **（推荐使用）**  
+* 网盘下载 **[[百度网盘]](https://pan.baidu.com/s/1ilStJlI_g2thKCL1Z9_puA)** 提取码: **uyw6**
 
 ------------------------------------------------------------桃乐豆安装教程------------------------------------------------------------
 
@@ -54,12 +54,15 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 * 插件设置转移软件 **[[WOWwfs]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/WOW%E9%85%8D%E7%BD%AE%E5%A4%8D%E5%88%B6-WFS4.9(32).exe)**
 * 美化字体数字整合 **[[Fonts]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/Fonts.7z)**
 ## 版本更新 Version update
-* **PEN X PEN Addons 20190916β-1**
-* **添加了** Skillet 扩展商业技能面板增强
-* **添加了** RealMobHealth真实怪物血量数值的全NPC缓存
-* **更新了** ElvUI框架及各种主要插件至作者新版
-* **更新了** ClassicCodex现在它兼容QuestLogEx任务框架了，并且减少了报错
-* **修复了** 避免作者主账号的记录影响，套用账号改为**灰烬使者-UI**
+* **PEN X PEN Addons 20190917β-1**
+* **添加了** !BugGrabber&BugSack用于屏蔽ClassicCodex的部分报错问题
+* ————————————————————————————————————————————————————
+* PEN X PEN Addons 20190916β-1
+* 添加了 Skillet 扩展商业技能面板增强
+* 添加了 RealMobHealth真实怪物血量数值的全NPC缓存
+* 更新了 ElvUI框架及各种主要插件至作者新版
+* 更新了 ClassicCodex现在它兼容QuestLogEx任务框架了，并且减少了报错
+* 修复了 避免作者主账号的记录影响，套用账号改为**灰烬使者-UI**
 * ————————————————————————————————————————————————————
 * PEN X PEN Addons 20190910β-1
 * 调整了 UI的整体布局，统一界面字号，布局更加紧凑合理
