@@ -10,6 +10,7 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Screenshots01.jpg" align="right" width="48%"> 
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Screenshots02.jpg" width="48%">
+
 **PEN X PEN Addons Lite**
 
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/lite01.png" align="right" width="48%"> 
