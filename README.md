@@ -1,3 +1,11 @@
+Tree 's TWF（PEN X PEN WTF 20190917 β2.zip）是基于NewX99的PEN XPEN插件包，通过更改WTF文件将插件界面精简魔改而来，这仅仅是一个WTF配置文件，interface文件仍基于PEN XPEN addons 请于PEN XPEN主页面进行下载，此配置暂关了个别单体插件，需要请手动恢复，如Weakauras2、ClassicCY等。
+
+截图：
+
+<img src="https://github.com/gsx19910519/PEN-X-PEN-Addons/blob/5763efd093358138718a11e6ca04a53245b673a8/26b1505b537ab418fcce82eb63db1d1.png">
+
+<img src="https://github.com/gsx19910519/PEN-X-PEN-Addons/blob/5763efd093358138718a11e6ca04a53245b673a8/cb5d7e3e573fcf9cc65cc1e3e266bb4.png">
+
 # PEN-X-PEN-Addons
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Screenshots00.jpg">
 
