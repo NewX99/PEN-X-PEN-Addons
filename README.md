@@ -6,8 +6,14 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 **请不要重新上传或分发此项目的过期版本。但是，非常欢迎您分享或链接到官方github页面。**
 
 ## 截图 Screenshots
-<img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Screenshots01.jpg">
-<img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Screenshots02.jpg">
+**PEN X PEN Addons Pro**
+<img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Screenshots01.jpg" align="right" width="48%">
+<img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Screenshots02.jpg" width="48%">
+
+**PEN X PEN Addons Lite**
+<img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/lite01.png" align="right" width="48%">
+<img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/lite02.png" width="48%">
+
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Screenshots03.jpg">
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Addonslist%20.jpg">
 
@@ -33,6 +39,9 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 5. 修改WTF目录下Account下多层文件名称为你的账号信息,可参考你备份出去的原文件
 6. 启动魔兽世界
 7. **跳过ElvUI的所有设置，插件自动重启，按ESC进入游戏主菜单，选择ElvUI进入设置，选择配置标签，选择复制配置文件自灰烬使者-UI**
+
+## 实验室 WTFlab
+* PEN X PEN Addons Lite是PEN X PEN插件包的精简版本，通过更改WTF文件将插件界面精简魔改而来，这仅仅是一个WTF配置文件，此配置暂关了个别单体插件，需要请手动恢复。
 
 ## 命令集 Commands
 * 参见截图列表
