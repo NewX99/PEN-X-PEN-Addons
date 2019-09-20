@@ -43,7 +43,7 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 
 ## 实验室 WTF lab
 * PEN X PEN Addons Lite是PEN X PEN插件包的精简版本，通过更改WTF文件将插件界面精简魔改而来，这仅仅是一个WTF配置文件，此配置暂关了个别单体插件，需要请手动恢复。
-* **[Tree's WTF](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PXPAddonsLite.zip)** **[Design by gsx19910519](https://github.com/gsx19910519/PEN-X-PEN-Addons/tree/Tree%E2%80%99s-WTF-for-PEN-X-PEN)**
+* **[[Tree's WTF]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PXPAddonsLite.zip)** **[Design by gsx19910519](https://github.com/gsx19910519/PEN-X-PEN-Addons/tree/Tree%E2%80%99s-WTF-for-PEN-X-PEN)**
 ## 命令集 Commands
 * 参见截图列表
 
