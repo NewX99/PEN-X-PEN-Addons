@@ -19,12 +19,12 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Addonslist%20.jpg">
 
 ## 最新版本 Last vesion
-* **PEN X PEN Addons 20190918β-1**
+* **PEN X PEN Addons 20190923β-1**
 
 ## 安装 Installation
 1. 下载插件
-* 更新工具 **[[桃乐豆]](http://www.taoledou.com/)** 桃乐豆分享码：**deaa3463fd1d46ac8207e74d5dca51b8** **（推荐使用）**  
-* 网盘下载 **[[百度网盘]](https://pan.baidu.com/s/1JHhC1j7KSKLWXmvUcnrytQ)** 提取码: **59eq**
+* 更新工具 **[[桃乐豆]](http://www.taoledou.com/)** 桃乐豆分享码：**0f7d71e7e2204c99b86d95812273f8c6** **（推荐使用）**  
+* 网盘下载 **[[百度网盘]](https://pan.baidu.com/s/10d5g5lMgbI7VnRYa_c4mCg)** 提取码: **2sse**
 
 ------------------------------------------------------------桃乐豆安装教程------------------------------------------------------------
 
@@ -65,9 +65,15 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 * 插件设置转移软件 **[[WOWwfs]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/WOW%E9%85%8D%E7%BD%AE%E5%A4%8D%E5%88%B6-WFS4.9(32).exe)**
 * 美化字体数字整合 **[[Fonts]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/Fonts.7z)**
 ## 版本更新 Version update
-* **PEN X PEN Addons 20190918β-1**
-* **找回了** 误删的天赋模拟器
-* **更新了** ClassicThreatMeter团队仇恨监视，现在他更准确了
+* **PEN X PEN Addons 20190923β-1**
+* **更新了** ElvUI框架及各种主要插件至作者新版，头像显血现在交给ElvUI自己处理了
+* **删除了** 测试用的NugRunning全职业法术计时插件
+* **删除了** 由于ElvUI框架已支持RealMobHealth，删除了PitBull4高自由度头像框架
+* **遗留了** 由于ElvUI框架导致无法显示小地图追踪图标的问题
+* ————————————————————————————————————————————————————
+* PEN X PEN Addons 20190918β-1
+* 找回了 误删的天赋模拟器
+* 更新了 ClassicThreatMeter团队仇恨监视，现在他更准确了
 * ————————————————————————————————————————————————————
 * PEN X PEN Addons 20190917β-1
 * 添加了 !BugGrabber&BugSack用于屏蔽ClassicCodex的部分报错问题
