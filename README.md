@@ -66,9 +66,9 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 * 美化字体数字整合 **[[Fonts]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/Fonts.7z)**
 ## 版本更新 Version update
 * **PEN X PEN Addons 20190923β-1**
-* **更新了** ElvUI框架及各种主要插件至作者新版，头像显血现在交给ElvUI自己处理了
+* **更新了** ElvUI框架及各种主要插件至作者新版
 * **删除了** 测试用的NugRunning全职业法术计时插件
-* **删除了** 由于ElvUI框架已支持RealMobHealth，删除了PitBull4高自由度头像框架
+* **删除了** PitBull4高自由度头像框架（头像显血现在已交还ElvUI处理）
 * **遗留了** 由于ElvUI框架导致无法显示小地图追踪图标的问题
 * ————————————————————————————————————————————————————
 * PEN X PEN Addons 20190918β-1
