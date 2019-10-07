@@ -19,13 +19,12 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Addonslist%20.jpg">
 
 ## 最新版本 Last vesion
-* **PEN X PEN Addons 20190930β-1**
+* **PEN X PEN Addons 20191007β-1**
 
 ## 安装 Installation
 1. 下载插件
-* 更新工具 **[[桃乐豆]](http://www.taoledou.com/)** 桃乐豆分享码：**bbbe4ec7fba54feba175ae94c9ac7bd2** **（推荐使用）**  
-* 网盘下载 **[[百度网盘]](https://pan.baidu.com/s/1JOZ3Xnkpk8D-jrAPnttvaQ)** 提取码: **ndq9**
-
+* 更新工具 **[[桃乐豆]](http://www.taoledou.com/)** 桃乐豆分享码：**6f5d484a8b0b4cc294071cd7d7f80f29** **（推荐使用）**  
+* 网盘下载 **[[百度网盘]](https://pan.baidu.com/s/1tF0et9DcAjj4PQJ9RvFP1g)** 提取码: **6sa6** 
 ------------------------------------------------------------桃乐豆安装教程------------------------------------------------------------
 
 2. 请按照更新器指示自动删除原有插件、设置文件、字体及反河蟹文件，安装所有插件、设置文件、字体及反河蟹文件。
@@ -65,10 +64,15 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 * 插件设置转移软件 **[[WOWwfs]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/WOW%E9%85%8D%E7%BD%AE%E5%A4%8D%E5%88%B6-WFS4.9(32).exe)**
 * 美化字体数字整合 **[[Fonts]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/Fonts.7z)**
 ## 版本更新 Version update
-* **PEN X PEN Addons 20190930β-1**
+* **PEN X PEN Addons 20191007β-1**
 * **更新了** ElvUI框架及各种主要插件至作者新版
-* **修复了** 由于ElvUI框架导致无法显示小地图追踪图标的问题
-* **增加了** AutoCarrot自动装备胡萝卜&骑术装备
+* **回退了** ClassicCodex至旧版，新版本频繁报错
+* **修正了** 桃乐豆分享BUG，删除了多余的测试插件
+* ————————————————————————————————————————————————————
+* PEN X PEN Addons 20190930β-1
+* 更新了 ElvUI框架及各种主要插件至作者新版
+* 修复了 由于ElvUI框架导致无法显示小地图追踪图标的问题
+* 增加了 AutoCarrot自动装备胡萝卜&骑术装备
 * ————————————————————————————————————————————————————
 * PEN X PEN Addons 20190923β-1
 * 更新了 ElvUI框架及各种主要插件至作者新版
