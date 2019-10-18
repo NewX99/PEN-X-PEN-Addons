@@ -19,12 +19,12 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Addonslist%20.jpg">
 
 ## 最新版本 Last vesion
-* **PEN X PEN Addons 20191016β-1**
+* **PEN X PEN Addons 20191018β-1**
 
 ## 安装 Installation
 1. 下载插件
-* 更新工具 **[[桃乐豆]](http://www.taoledou.com/)** 桃乐豆分享码：**911fae048c604638a943191d0a7ad4ac** **（推荐使用）**  
-* 网盘下载 **[[百度网盘]](https://pan.baidu.com/s/1aB6K90X_GP1cNe4KP3mn8A)** 提取码: **p7yk** 
+* 更新工具 **[[桃乐豆]](http://www.taoledou.com/)** 桃乐豆分享码：**4fe06d6a47524b0a8db9ebaf50e82978** **（推荐使用）**  
+* 网盘下载 **[[百度网盘]](https://pan.baidu.com/s/1rH9gTWKady-Dbf1t-idW9w&shfl=shareset)** 提取码: **i7cb**
 
 ------------------------------------------------------------桃乐豆安装教程------------------------------------------------------------
 
@@ -45,6 +45,7 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 ## 实验室 WTF lab
 * PEN X PEN Addons Lite是PEN X PEN插件包的精简版本，通过更改WTF文件将插件界面精简魔改而来，这仅仅是一个WTF配置文件，此配置暂关了个别单体插件，需要请手动恢复。
 * **[[PXPAddons Lite WTF]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PXPAddonsLite.zip)** Design by **[gsx19910519](https://github.com/gsx19910519/PEN-X-PEN-Addons/tree/Tree%E2%80%99s-WTF-for-PEN-X-PEN)**
+
 ## 命令集 Commands
 * 参见截图列表
 
@@ -54,24 +55,32 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 ## 推荐插件 Recommended addons
 * Guidelime 保姆式高定制任务升级导航插件
 * AtlasLootClassic 副本掉落物品查询
-* ClassicCodex 强大的全能型任务数据库 - Fan移植
+* ClassicCodex 强大的全能型任务数据库 
+* Questie任务助手
 * Details  老牌轻量级数据统计插件
 * MonkeyQuest 猴子任务监视助手
 * WeakAuras2 神级法术提醒和计时插件
+* Questie任务助手套件
 
 ## 辅助文件 secondary file
 * 桃乐豆插件更新器 **[[TLD]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/taoledou-setup-latest.exe)**
 * 插件版本修改软件 **[[WOWtoc]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/WoWToc.exe)**
 * 插件设置转移软件 **[[WOWwfs]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/WOW%E9%85%8D%E7%BD%AE%E5%A4%8D%E5%88%B6-WFS4.9(32).exe)**
 * 美化字体数字整合 **[[Fonts]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/Fonts.7z)**
+
 ## 版本更新 Version update
-* **PEN X PEN Addons 20191016β-1**
-* **更新了** ElvUI框架及各种主要插件至作者新版
-* **修正了** ClassicCodex至新版，现在基本不报错了
-* **修正了** postal邮箱插件引起的图标变形，因为他被删除了
-* **优化了** AUX拍卖行插件引起物品鼠标指向提示内的价格内容重复BUG
-* **增加了** CEPGP团队制度管理插件，为EPGP制度公会铺路
+* **PEN X PEN Addons 20191018β-1**
+* **更换了** ClassicCodex至Questie，内存占用更少更倾向于任务
+* **增加了** alaGearMan一键换装
 * **滞后了** 优秀团队框架加入的计划
+* ————————————————————————————————————————————————————
+* PEN X PEN Addons 20191016β-1
+* 更新了 ElvUI框架及各种主要插件至作者新版
+* 修正了 ClassicCodex至新版，现在基本不报错了
+* 修正了 postal邮箱插件引起的图标变形，因为他被删除了
+* 优化了 AUX拍卖行插件引起物品鼠标指向提示内的价格内容重复BUG
+* 增加了 CEPGP团队制度管理插件，为EPGP制度公会铺路
+* 滞后了 优秀团队框架加入的计划
 * ————————————————————————————————————————————————————
 * PEN X PEN Addons 20191007β-1
 * 更新了 ElvUI框架及各种主要插件至作者新版
