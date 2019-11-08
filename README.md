@@ -19,11 +19,11 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Addonslist%20.jpg">
 
 ## 最新版本 Last vesion
-* **PEN X PEN Addons 20191025β-1**
+* **PEN X PEN Addons 20191108β-1**
 
 ## 安装 Installation
 1. 下载插件
-* 更新工具 **[[桃乐豆]](http://www.taoledou.com/)** 桃乐豆分享码：**a9f9fe761c4f49b5a9b09efdfebb15d9** **（推荐使用）**  
+* 更新工具 **[[桃乐豆]](http://www.taoledou.com/)** 桃乐豆分享码：**df419104170c46108b64019951576ea8** **（推荐使用）**  
 * 网盘下载 **[[百度网盘 暂缓更新*]](https://github.com/NewX99/PEN-X-PEN-Addons)** 提取码: **暂缓更新**
 
 ------------------------------------------------------------桃乐豆安装教程------------------------------------------------------------
@@ -69,10 +69,15 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 * 美化字体数字整合 **[[Fonts]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/Fonts.7z)**
 
 ## 版本更新 Version update
-* **PEN X PEN Addons 20191025β-1**
-* **增加了** BFFilter 组队频道信息过滤
-* **修复了** alaGearMan一键换装按钮不能瞬间脱衣的BUG
-* **滞后了** 优秀团队框架加入的计划
+* **PEN X PEN Addons 20191108β-1**
+* **更新了** ElvUI框架及各种主要插件至作者新版
+* **添加了** badboy对于各种飞机航空刷屏的屏蔽
+* **滞后了** 团队框架加入的计划，主要因为没有号和团队进行调节，调整了ELVUI的25人及40人框架，基本可用
+* ————————————————————————————————————————————————————
+* PEN X PEN Addons 20191025β-1
+* 增加了 BFFilter 组队频道信息过滤
+* 修复了 alaGearMan一键换装按钮不能瞬间脱衣的BUG
+* 滞后了 优秀团队框架加入的计划
 * ————————————————————————————————————————————————————
 * PEN X PEN Addons 20191018β-1
 * 更换了 ClassicCodex至Questie，内存占用更少更倾向于任务
