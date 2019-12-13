@@ -19,12 +19,12 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Addonslist%20.jpg">
 
 ## 最新版本 Last vesion
-* **PEN X PEN Addons 20191108β-1**
+* **PEN X PEN Addons 20191213β-1**
 
 ## 安装 Installation
 1. 下载插件
-* 更新工具 **[[桃乐豆]](http://www.taoledou.com/)** 桃乐豆分享码：**df419104170c46108b64019951576ea8** **（推荐使用）**  
-* 网盘下载 **[[百度网盘 暂缓更新*]](https://github.com/NewX99/PEN-X-PEN-Addons)** 提取码: **暂缓更新**
+* 更新工具 **[[桃乐豆]](http://www.taoledou.com/)** 桃乐豆分享码：**c3435170d87a49779171a2211fa9ce0c** **（推荐使用）**  
+* 网盘下载 **[[百度网盘]](https://pan.baidu.com/s/1IH2iuhyf-25cNwLiq4HTbw)** 提取码: **7m5v**
 
 ------------------------------------------------------------桃乐豆安装教程------------------------------------------------------------
 
@@ -41,6 +41,9 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 5. 修改WTF目录下Account下多层文件名称为你的账号信息,可参考你备份出去的原文件
 6. 启动魔兽世界
 7. **跳过ElvUI的所有设置，插件自动重启，按ESC进入游戏主菜单，选择ElvUI进入设置，选择配置标签，选择复制配置文件自灰烬使者-UI**
+
+## 使用教程 Use tutorial
+* **陆续更新**
 
 ## 实验室 WTF lab
 * PEN X PEN Addons Lite是PEN X PEN插件包的精简版本，通过更改WTF文件将插件界面精简魔改而来，这仅仅是一个WTF配置文件，此配置暂关了个别单体插件，需要请手动恢复。
@@ -69,10 +72,18 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 * 美化字体数字整合 **[[Fonts]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/Fonts.7z)**
 
 ## 版本更新 Version update
-* **PEN X PEN Addons 20191108β-1**
+* **PEN X PEN Addons 20191213β-1**
 * **更新了** ElvUI框架及各种主要插件至作者新版
-* **添加了** badboy对于各种飞机航空刷屏的屏蔽
-* **滞后了** 团队框架加入的计划，主要因为没有号和团队进行调节，调整了ELVUI的25人及40人框架，基本可用
+* **更换了** badboy为EnhancedChatFilter防聊天框刷屏,关键词聊天过滤，用于对于各种飞机航空刷屏的屏蔽
+* **添加了** RaidLedger 团队账本/G团助手
+* **添加了** Routes 采集线路优化助手
+* **添加了** TankWarningsClassic
+* **修改了** RlvUI团队框架现在基本可用，期待治疗大神的反馈
+* ————————————————————————————————————————————————————
+* PEN X PEN Addons 20191108β-1
+* 更新了 ElvUI框架及各种主要插件至作者新版
+* 添加了 badboy对于各种飞机航空刷屏的屏蔽
+* 滞后了 团队框架加入的计划，主要因为没有号和团队进行调节，调整了ELVUI的25人及40人框架，基本可用
 * ————————————————————————————————————————————————————
 * PEN X PEN Addons 20191025β-1
 * 增加了 BFFilter 组队频道信息过滤
