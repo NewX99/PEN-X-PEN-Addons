@@ -19,12 +19,12 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Addonslist%20.jpg">
 
 ## 最新版本 Last vesion
-* **PEN X PEN Addons 20191213β-1**
+* **PEN X PEN Addons 20200309β-1**
 
 ## 安装 Installation
 1. 下载插件
-* 更新工具 **[[桃乐豆]](http://www.taoledou.com/)** 桃乐豆分享码：**c3435170d87a49779171a2211fa9ce0c** **（推荐使用）**  
-* 网盘下载 **[[百度网盘]](https://pan.baidu.com/s/1IH2iuhyf-25cNwLiq4HTbw)** 提取码: **7m5v**
+* 更新工具 **[[桃乐豆]](http://www.taoledou.com/)** 桃乐豆分享码：**519fafa2acf742f497d01755ead7bcf7** **（推荐使用）**  
+* 网盘下载 **[[百度网盘]](https://pan.baidu.com/s/1F6M6H4r1X_rAc_EmNDgKRQ)** 提取码: **xkfc**
 
 ------------------------------------------------------------桃乐豆安装教程------------------------------------------------------------
 
@@ -72,13 +72,26 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 * 美化字体数字整合 **[[Fonts]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/Fonts.7z)**
 
 ## 版本更新 Version update
-* **PEN X PEN Addons 20191213β-1**
+* **PEN X PEN Addons 20200309β-1**
 * **更新了** ElvUI框架及各种主要插件至作者新版
-* **更换了** badboy为EnhancedChatFilter防聊天框刷屏,关键词聊天过滤，用于对于各种飞机航空刷屏的屏蔽
-* **添加了** RaidLedger 团队账本/G团助手
-* **添加了** Routes 采集线路优化助手
-* **添加了** TankWarningsClassic
-* **修改了** ElvUI团队框架现在基本可用，期待治疗大神的反馈
+* **更换了** CTM仇恨插件为ThreatClassic2，用于兼容大脚插件仇恨
+* **更换了** TankWarningsClassic为BigBrainTanking坦克助手，现在可是设置自动取消拯救祝福
+* **添加了** MeetingHorn集结号，用于兼容大脚插件组队
+* **添加了** RepairMan自动修理
+* **添加了** Capping战场计时条
+* **添加了** ExRT Classic强大的综合团队RL工具 FarmHud
+* **添加了** 采集地图HUD雷达
+* **添加了** Ginv密语公会邀请
+* **添加了** Myslot帐号间配置复制插件
+* **遗留了** 部分插件版本与游戏不匹配的问题，选择加载过期插件即可
+* ————————————————————————————————————————————————————
+* PEN X PEN Addons 20191213β-1
+* 更新了 ElvUI框架及各种主要插件至作者新版
+* 更换了 badboy为EnhancedChatFilter防聊天框刷屏,关键词聊天过滤，用于对于各种飞机航空刷屏的屏蔽
+* 添加了 RaidLedger团队账本/G团助手
+* 添加了 Routes采集线路优化助手
+* 添加了 TankWarningsClassic
+* 修改了 ElvUI团队框架现在基本可用，期待治疗大神的反馈
 * ————————————————————————————————————————————————————
 * PEN X PEN Addons 20191108β-1
 * 更新了 ElvUI框架及各种主要插件至作者新版
