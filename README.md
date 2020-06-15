@@ -19,12 +19,12 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Addonslist%20.jpg">
 
 ## 最新版本 Last vesion
-* **PEN X PEN Addons 20200309β-1**
+* **PEN X PEN Addons 20200615β-1**
 
 ## 安装 Installation
 1. 下载插件
-* 更新工具 **[[桃乐豆]](http://www.taoledou.com/)** 桃乐豆分享码：**519fafa2acf742f497d01755ead7bcf7** **（推荐使用）**  
-* 网盘下载 **[[百度网盘]](https://pan.baidu.com/s/1F6M6H4r1X_rAc_EmNDgKRQ)** 提取码: **xkfc**
+* 更新工具 **[[桃乐豆]](http://www.taoledou.com/)** 桃乐豆分享码：**3792b61bb43b46ef9d34c4f081ae90f6** **（推荐使用）**  
+* 网盘下载 **[[百度网盘]](https://pan.baidu.com/s/1Jbv1Qg5uCmgjX8frGs-QIA)** 提取码: **929f**
 
 ------------------------------------------------------------桃乐豆安装教程------------------------------------------------------------
 
@@ -72,18 +72,27 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 * 美化字体数字整合 **[[Fonts]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/Fonts.7z)**
 
 ## 版本更新 Version update
-* **PEN X PEN Addons 20200309β-1**
-* **更新了** ElvUI框架及各种主要插件至作者新版
-* **更换了** CTM仇恨插件为ThreatClassic2，用于兼容大脚插件仇恨
-* **更换了** TankWarningsClassic为BigBrainTanking坦克助手，现在可是设置自动取消拯救祝福
-* **添加了** MeetingHorn集结号，用于兼容大脚插件组队
-* **添加了** RepairMan自动修理
-* **添加了** Capping战场计时条
-* **添加了** ExRT Classic强大的综合团队RL工具 FarmHud
-* **添加了** 采集地图HUD雷达
-* **添加了** Ginv密语公会邀请
-* **添加了** Myslot帐号间配置复制插件
+* **PEN X PEN Addons 20200615β-1**
+* **更新了** 我缩容减肥了，全部插件直接由原资源更新了
+* **更换了** ElvUI框架及各种主要插件至作者新版
+* **修复了** ATLAS不是最新版本的BUG
+* **删除了** RepairMan自动修理，使用ElvUI自带修理
+* **删除了** 采集地图HUD雷达
+* **删除了** Ginv密语公会邀请
 * **遗留了** 部分插件版本与游戏不匹配的问题，选择加载过期插件即可
+* ————————————————————————————————————————————————————
+* PEN X PEN Addons 20200309β-1
+* 更新了 ElvUI框架及各种主要插件至作者新版
+* 更换了 CTM仇恨插件为ThreatClassic2，用于兼容大脚插件仇恨
+* 更换了 TankWarningsClassic为BigBrainTanking坦克助手，现在可是设置自动取消拯救祝福
+* 添加了 MeetingHorn集结号，用于兼容大脚插件组队
+* 添加了 RepairMan自动修理
+* 添加了 Capping战场计时条
+* 添加了 ExRT Classic强大的综合团队RL工具 FarmHud
+* 添加了 采集地图HUD雷达
+* 添加了 Ginv密语公会邀请
+* 添加了 Myslot帐号间配置复制插件
+* 遗留了 部分插件版本与游戏不匹配的问题，选择加载过期插件即可
 * ————————————————————————————————————————————————————
 * PEN X PEN Addons 20191213β-1
 * 更新了 ElvUI框架及各种主要插件至作者新版
