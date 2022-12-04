@@ -1,25 +1,18 @@
-# PEN-X-PEN-Addons
+# PEN-X-PEN-Addons Vanilla
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Screenshots00.jpg">
 
-PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简体插件整合而来。魔兽世界怀旧服，主指为中国地区由网易代理的魔兽世界怀旧服，该插件旨在增强游戏内容。希望用户能够从一开始就易于使用。它主要由NewX99自行汇编。
+PEN X PEN Addons Vanilla是一款魔兽世界怀旧服插件，由网络中的中文简体插件整合而来。魔兽世界怀旧服，主指为魔兽世界香草时代60怀旧服，该插件旨在增强游戏内容。希望用户能够从一开始就易于使用。它由NewX99自行汇编。
 
 **请不要重新上传或分发此项目的过期版本。但是，非常欢迎您分享或链接到官方github页面。**
 
 ## 截图 Screenshots
-**PEN X PEN Addons**
+**PEN X PEN Addons Vanilla**
 
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Screenshots01.jpg" align="right" width="48%"> 
 <img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Screenshots02.jpg" width="48%">
 
-**PEN X PEN Addons Lite TEST**
-
-<img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/lite01.png" align="right" width="48%"> 
-<img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/lite02.png" width="48%">
-<img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Screenshots03.jpg">
-<img src="https://github.com/NewX99/PEN-X-PEN-Addons/blob/master/image/Addonslist%20.jpg">
-
 ## 最新版本 Last vesion
-* **PEN X PEN Addons 20200615β-1**
+* **PEN X PEN Addons Vanilla 20221204β-1**
 
 ## 安装 Installation
 1. 下载插件
@@ -72,14 +65,17 @@ PEN X PEN Addons是一款魔兽世界怀旧服插件，由网络中的中文简�
 * 美化字体数字整合 **[[Fonts]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/Fonts.7z)**
 
 ## 版本更新 Version update
-* **PEN X PEN Addons 20200615β-1**
-* **更新了** 我缩容减肥了，全部插件直接由原资源更新了
-* **更换了** ElvUI框架及各种主要插件至作者新版
-* **修复了** ATLAS不是最新版本的BUG
-* **删除了** RepairMan自动修理，使用ElvUI自带修理
-* **删除了** 采集地图HUD雷达
-* **删除了** Ginv密语公会邀请
-* **遗留了** 部分插件版本与游戏不匹配的问题，选择加载过期插件即可
+* **PEN X PEN Addons Vanilla 20221204β-1**
+* **重要提示**  中国地区由网易代理的魔兽世界香草时代60怀旧服即将走到最后，现PEN X PEN Addons将产生重大更新，转向关注由N服团队主旨的香草时代60怀旧服，即刻起更名为PEN X PEN Addons Vanilla。一个新的时代开始了。
+* ————————————————————————————————————————————————————
+* PEN X PEN Addons 20200615β-1
+* 更新了 我缩容减肥了，全部插件直接由原资源更新了
+* 更换了 ElvUI框架及各种主要插件至作者新版
+* 修复了 ATLAS不是最新版本的BUG
+* 删除了 RepairMan自动修理，使用ElvUI自带修理
+* 删除了 采集地图HUD雷达
+* 删除了 Ginv密语公会邀请
+* 遗留了 部分插件版本与游戏不匹配的问题，选择加载过期插件即可
 * ————————————————————————————————————————————————————
 * PEN X PEN Addons 20200309β-1
 * 更新了 ElvUI框架及各种主要插件至作者新版
