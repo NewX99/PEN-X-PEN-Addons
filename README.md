@@ -16,28 +16,21 @@ PEN X PEN Addons Vanilla是一款魔兽世界怀旧服插件，由网络中的�
 
 ## 安装 Installation
 1. 下载插件
-* 网盘下载 **[[百度网盘]](https://pan.baidu.com/s/1KD0BmFqRfBTcu_7qWfBigw)** 提取码: **PXPA**
-
-------------------------------------------------------------桃乐豆安装教程------------------------------------------------------------
-
-2. 请按照更新器指示自动删除原有插件、设置文件、字体及反河蟹文件，安装所有插件、设置文件、字体及反河蟹文件。
-* **提别提示：目前桃乐豆出现分享BUG,如出现分享插件不完整的情况，请点击桃乐豆左上角自己的微信头像-重置桃乐豆-重启软件-设置怀旧服路径-通过分享码重新下载分享插件**
-* 注意请勿使用桃乐豆更新插件，本插件包多数来自于WOWCAT的汉化修改版，更新后会出现乱码、英文界面等情况
-3. 启动魔兽世界
+* 网盘下载 **[[百度网盘]](https://pan.baidu.com/s/131NEjeWXIWhVFcPzNollQA)** 提取码: **PXPA**
 
 ------------------------------------------------------------网盘版安装教程------------------------------------------------------------
 
-2. 解压缩获得PEN X PEN classic Master，其中包含Interface,WTF,Fonts三个文件夹
-3. **备份你魔兽世界根目录下_classic_目录下的Cache,Interface,WTF,Fonts四个文件夹，然后删除它们**
-4. 拷贝PEN X PEN classic Master下所有的文件至魔兽世界根目录下_classic_文件夹
-5. 修改WTF目录下Account下多层文件名称为你的账号信息,可参考你备份出去的原文件
+2. 解压缩获得PEN X PEN addons Vanilla，其中包含Interface,WTF,Fonts三个文件夹
+3. **备份你魔兽世界根目录下的Cache,Interface,WTF,Fonts四个文件夹，然后删除它们**
+4. 拷贝PEN X PEN addons Vanilla下所有的文件至魔兽世界根目录下
+5. 修改WTF目录下Account下多层文件名称为你的账号信息,可参考你备份出去的原文件,正确顺序为World of Warcraft>WTF>Account>你的账号>Everlook>角色ID
 6. 启动魔兽世界
-7. **跳过ElvUI的所有设置，插件自动重启，按ESC进入游戏主菜单，选择ElvUI进入设置，选择配置标签，选择复制配置文件自灰烬使者-UI**
 
 ## 使用教程 Use tutorial
 * 近期更新
 
 ## 实验室 WTF lab
+* **它已不再可用**
 * PEN X PEN Addons Lite是PEN X PEN插件包的精简版本，通过更改WTF文件将插件界面精简魔改而来，这仅仅是一个WTF配置文件，此配置暂关了个别单体插件，需要请手动恢复。
 * **[[PXPAddons Lite WTF]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/PXPAddonsLite.zip)** Design by **[gsx19910519](https://github.com/gsx19910519/PEN-X-PEN-Addons/tree/Tree%E2%80%99s-WTF-for-PEN-X-PEN)**
 
@@ -45,9 +38,10 @@ PEN X PEN Addons Vanilla是一款魔兽世界怀旧服插件，由网络中的�
 * 参见截图列表
 
 ## 语言 Languages
-* 目前只支持简体中文
+* 支持简体中文
 
 ## 推荐插件 Recommended addons
+* **它已不再可用**
 * Guidelime 保姆式高定制任务升级导航插件
 * AtlasLootClassic 副本掉落物品查询
 * ClassicCodex 强大的全能型任务数据库 
@@ -58,6 +52,7 @@ PEN X PEN Addons Vanilla是一款魔兽世界怀旧服插件，由网络中的�
 * Questie任务助手套件
 
 ## 辅助文件 secondary file
+* **它已不再可用**
 * 桃乐豆插件更新器 **[[TLD]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/taoledou-setup-latest.exe)**
 * 插件版本修改软件 **[[WOWtoc]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/WoWToc.exe)**
 * 插件设置转移软件 **[[WOWwfs]](https://github.com/NewX99/PEN-X-PEN-Addons/raw/master/master/WOW%E9%85%8D%E7%BD%AE%E5%A4%8D%E5%88%B6-WFS4.9(32).exe)**
