@@ -66,7 +66,8 @@ PEN X PEN Addons Vanilla是一款魔兽世界怀旧服插件，由网络中的�
 
 ## 版本更新 Version update
 * **PEN X PEN Addons Vanilla 20221204β-1**
-* **重要提示**  中国地区由网易代理的魔兽世界香草时代60怀旧服即将走到最后，现PEN X PEN Addons将产生重大更新，转向关注由N服团队主旨的香草时代60怀旧服，即刻起更名为PEN X PEN Addons Vanilla。一个新的时代开始了。
+* **重要提示**  中国地区由网易代理的魔兽世界香草时代60怀旧服即将走到最后，现PEN X PEN Addons将产生重大更新，转向关注由N服团队主旨的香草时代60怀旧服，即刻起更名为PEN X PEN Addons Vanilla。
+* **HELLO NEW WORLD**
 * ————————————————————————————————————————————————————
 * PEN X PEN Addons 20200615β-1
 * 更新了 我缩容减肥了，全部插件直接由原资源更新了
