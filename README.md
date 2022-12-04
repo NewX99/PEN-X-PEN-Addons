@@ -16,8 +16,7 @@ PEN X PEN Addons Vanilla是一款魔兽世界怀旧服插件，由网络中的�
 
 ## 安装 Installation
 1. 下载插件
-* 更新工具 **[[桃乐豆]](http://www.taoledou.com/)** 桃乐豆分享码：**3792b61bb43b46ef9d34c4f081ae90f6** **（推荐使用）**  
-* 网盘下载 **[[百度网盘]](https://pan.baidu.com/s/1Jbv1Qg5uCmgjX8frGs-QIA)** 提取码: **929f**
+* 网盘下载 **[[百度网盘]](链接：https://pan.baidu.com/s/1KD0BmFqRfBTcu_7qWfBigw)** 提取码: **PXPA**
 
 ------------------------------------------------------------桃乐豆安装教程------------------------------------------------------------
 
