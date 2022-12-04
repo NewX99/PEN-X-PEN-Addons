@@ -23,8 +23,9 @@ PEN X PEN Addons Vanilla是一款魔兽世界怀旧服插件，由网络中的�
 2. 解压缩获得PEN X PEN addons Vanilla，其中包含Interface,WTF,Fonts三个文件夹
 3. **备份你魔兽世界根目录下的Cache,Interface,WTF,Fonts四个文件夹，然后删除它们**
 4. 拷贝PEN X PEN addons Vanilla下所有的文件至魔兽世界根目录下
-5. 修改WTF目录下Account下多层文件名称为你的账号信息,可参考你备份出去的原文件,正确顺序为World of Warcraft>WTF>Account>你的账号>Everlook>角色ID
-6. 启动魔兽世界
+5. 修改WTF目录下Account下多层文件名称为你的账号信息,可参考你备份出去的原文件
+6. 修改WTF目录的正确顺序为World of Warcraft>WTF>Account>你的账号>Everlook>角色ID
+7. 启动魔兽世界
 
 ## 使用教程 Use tutorial
 * 近期更新
